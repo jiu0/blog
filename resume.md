@@ -18,8 +18,6 @@ Jiu0's resume on github
 * 邮箱：1250837811@qq.com
 
 
-[@九零仓库](https://github.com/jiu0)
-[@九零演示一路路](http://yilulu.com)
 
 
 
@@ -37,6 +35,8 @@ Jiu0's resume on github
 
 
 ## 作品例子 / work
+
+
 
 * 华南互联   huh
 * 水上乐园   sly 
@@ -65,6 +65,9 @@ Jiu0's resume on github
 * 旅游集团   lvy
 
 * 微信营销   cms
+
+### [@九零仓库](https://github.com/jiu0)
+### [@九零演示一路路](http://yilulu.com)
 
 
 
