@@ -10,7 +10,7 @@ Jiu0's resume on github
 * 技能：html5/css3/js/jquery
 * 住址：广州天河上社
 
-* 意向：前端开发7K
+* 意向：前端开发
 * 手机：182 1849 2046
 
 * 性别：男
