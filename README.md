@@ -1,5 +1,5 @@
 # 九零 / Jiu0 Blog
-Jiu0's blog on github, https://github.com/jiu0/blog
+Jiu0's blog on github, https://github.com/jiu0/blog/issues
 
 所有博文均以 GitHub issue 的形式发布，点此阅读：
 
