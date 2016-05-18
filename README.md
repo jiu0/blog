@@ -1,5 +1,10 @@
+
+http://www.yilulu.com/jiu04.png
+
 # 九零 / Jiu0 Blog
 Jiu0's blog on github, https://github.com/jiu0/blog/issues
+
+http://www.yilulu.com/jiu04.png
 
 所有博文均以 GitHub issue 的形式发布，点此阅读：
 
@@ -37,7 +42,8 @@ Jiu0's blog on github, https://github.com/jiu0/blog/issues
 
 我分享 您鼓励。谢谢！
 
-[![立即捐助](https://cloud.githubusercontent.com/assets/1231359/13027637/6fdb17fc-d291-11e5-91cf-d8840c727209.png)](https://github.com/jiu0/blog/issues/10) （支持微信与支付宝）
+支付宝：
+微信：
 
 
 
