@@ -1,5 +1,7 @@
+[![立即阅读](http://www.yilulu.com/jiu04.png)](https://github.com/jiu0/blog/issues)
 
-[!(http://www.yilulu.com/jiu04.png)]
+
+
 
 # 九零 / Jiu0 Blog
 Jiu0's blog on github, https://github.com/jiu0/blog/issues
