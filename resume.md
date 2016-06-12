@@ -57,7 +57,7 @@ Jiu0's resume on github
 ## 部分作品 / work
 
 
-
+* 沃音乐海选活动 wohx2
 * 华南互联   huh
 * 水上乐园   sly 
 
