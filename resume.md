@@ -19,7 +19,7 @@ Jiu0's resume on github
 * 仓库：http://github.com/jiu0
 
 
-w
+
 ## 教育经历 / Education
 
 
