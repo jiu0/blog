@@ -19,11 +19,11 @@ Jiu0's resume on github
 * 仓库：http://github.com/jiu0
 
 
-
+w
 ## 教育经历 / Education
 
 
-* 2011.9-2013.6 湖北交通职业技术学院 
+* 2010.9-2013.6 湖北交通职业技术学院 
 班学习委员，学生会组织部委员， 
 获学院二等奖学金2次 
 通过大学英语四级（CET-4） 
@@ -46,8 +46,8 @@ Jiu0's resume on github
 
 
 ## 综合评估 / Evaluation
-用NP++/FF/Chrome 精h5/js 自写UI 
-代码简洁注重语义性能。 
+用notepad++/firefox/chrome 
+精h5/css3/js/jquery 代码简洁
 培训积极，自学力强。踏实，用功。 
 手写熟练，有经验，有作品。 
 
@@ -88,7 +88,6 @@ Jiu0's resume on github
 * 模块仓库   amodels
 * 律蜻蜓     lawqtaa
 * 幼安宝 youanbao
-* 沃海选 wohx
 * 手机抽奖   wojue
 
 
