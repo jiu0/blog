@@ -8,7 +8,7 @@ https://github.com/jiu0/blog/issues
 ## 关于九零 / About
 
 
-[![立即阅读](https://avatars1.githubusercontent.com/u/16054233?v=3&s=460)
+[![立即阅读](https://avatars1.githubusercontent.com/u/16054233?v=3&s=460)]
 
 四面八方，不离中央。<br/>九零网络，无限想象。
 
