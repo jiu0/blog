@@ -1,4 +1,4 @@
-# 杨超锋前端简历 / Jiu0 Resume
+# 杨超沣前端简历 / Jiu0 Resume
 Jiu0's resume on github
 
 
@@ -6,7 +6,7 @@ Jiu0's resume on github
 ## 个人资料 / Info
 
 
-* 姓名：杨超锋
+* 姓名：杨超沣
 * 性别：男
 * 出生：1990.11
 * 技能：html5/css3/js/jQuery
