@@ -7,16 +7,26 @@ Jiu0's resume on github
 
 
 * 姓名：杨超锋
-* 技能：html5/css3/js/jQuery/C
-* 住址：广州天河上社
-* 意向：前端开发
-* 手机：182 1849 2046
-
 * 性别：男
 * 出生：1990.11
+* 意向：前端开发
 * 邮箱：1250837811@qq.com
-* 演示：http://www.yilulu.com
-* 仓库：http://github.com/jiu0
+* 手机：182 1849 2046
+* 住址：广州天河上社
+
+* 关注：
+前端 html5/css3/Sass/JS/jQuery/Jsonp/Zepto
+框架 BootStrap/AngularJS/ReactJS/Mui
+后端 PHP/Mysql/java/objectC/C
+
+
+
+## 综合评估 / Evaluation
+html5/css3 手写熟练，能处理常用js，手写UI前端。
+自学能力好，有经验，有作品。
+演示：http://www.yilulu.com
+仓库：http://github.com/jiu0 
+
 
 
 ## 教育经历 / Education
@@ -32,7 +42,7 @@ Jiu0's resume on github
 
 
 
-## 工作经历 / Crear、
+## 职业经历 / Career
 
 
 * 2014.11-2015.6  华南互联科技有限公司 前端开发 
@@ -64,16 +74,7 @@ Jiu0's resume on github
 
 
 
-## 综合评估 / Evaluation
-html5/css3手写熟练，能处理常用js。
-自学能力好，有经验，有作品。
-演示：http://www.yilulu.com
-仓库：http://github.com/jiu0 
-
-
-
-
-## 部分作品 / work
+## 部分作品 / Works
 
 
 * 沃音乐海选活动 wohx2
@@ -116,7 +117,6 @@ html5/css3手写熟练，能处理常用js。
 
 
 ## 九零仓库 / Depot
-
 
 * [@九零仓库](https://github.com/jiu0)
 * [@九零演示一路路](http://yilulu.com)
