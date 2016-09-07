@@ -1,5 +1,5 @@
-# 杨超锋前端简历 / Jiu0 Resume
-Jiu0's resume on github
+# 九零简历 / Jiu0's Resume
+
 
 
 
@@ -14,10 +14,12 @@ Jiu0's resume on github
 * 手机：182 1849 2046
 * 住址：广州天河上社
 
-* 关注：
-前端 html5/css3/Sass/JS/jQuery/Jsonp/Zepto
-框架 BootStrap/AngularJS/ReactJS/Mui
-后端 PHP/Mysql/java/objectC/C
+
+
+## 关注领域 / Engage
+* 前端 html5/css3/Sass/JS/jQuery/Jsonp/Zepto
+* 框架 BootStrap/AngularJS/ReactJS/Mui
+* 后端 PHP/Mysql/java/objectC/C
 
 
 
